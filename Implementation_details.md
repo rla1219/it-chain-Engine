@@ -4,7 +4,7 @@
      
 ### Related config
 데이터베이스의 설정은 config.yaml에 정의된다. 
- 
+ ddsa
 - Type
 
   데이터베이스의 유형. 지금은 levelDB와 파일에 대한 몇몇의 helper 기능이 지원된다.
